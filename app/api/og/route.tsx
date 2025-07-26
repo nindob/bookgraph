@@ -28,7 +28,7 @@ export async function GET() {
               letterSpacing: '-0.05em',
             }}
           >
-            booklist
+            bookgraph
           </div>
         </div>
       ),
